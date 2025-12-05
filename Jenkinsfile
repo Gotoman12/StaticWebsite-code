@@ -7,5 +7,11 @@ pipeline{
             }
 
         }
+        stage("Hello-World"){
+            steps{
+                echo "Pipeline is completed"
+            }
+
+        }
     }
 }
