@@ -1,0 +1,10 @@
+{
+  "Parts": [
+    { "PartNumber": 1, "ETag": "\"6be1f82b1af520acb9d311ce99a741ba\"" },
+    { "PartNumber": 2, "ETag": "\"f3857a937ed9f3bab10146c3ebd3f786\"" },
+    { "PartNumber": 3, "ETag": "\"c8d0ab197b74593ac0899eb7422f61bb\"" },
+    { "PartNumber": 4, "ETag": "\"26dd9448fb0b85abcb253005ddd8f7d6\"" },
+    { "PartNumber": 5, "ETag": "\"afb650bdcec26cce457e790bdd64c218\"" },
+	{ "PartNumber": 6, "ETag": "\"dcbc035bf1a0ce3746a7dfe334ad3298\"" }
+  ]
+}
